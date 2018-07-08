@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimingSDK</string>
+    <string name="send_seconds">Send seconds</string>
+</resources>
